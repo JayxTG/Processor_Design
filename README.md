@@ -23,6 +23,3 @@ This project involves the design and implementation of a custom processor to mee
        git clone https://github.com/your-username/custom-processor-design.git
    ```
 2. Follow the instructions provided in the project documentation to understand the design specifications and implementation details.
-
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).
