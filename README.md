@@ -20,6 +20,6 @@ This project involves the design and implementation of a custom processor to mee
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-       git clone https://github.com/your-username/custom-processor-design.git
+       git clone https://github.com/JayxTG/processor_design.git
    ```
 2. Follow the instructions provided in the project documentation to understand the design specifications and implementation details.
